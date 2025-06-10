@@ -80,7 +80,6 @@ while True:
     if i >= 50:
         break
 
-
 print("----------------")
 
 while True:
@@ -126,14 +125,12 @@ ingridientai = ["Kaliarope", "artisokas", "patisonas", "humusas"]
 for fui in ingridientai:
     print(fui)
 
-
 for y in range(1, 11):
     for x in range(1, 11):
         print(str(x * y) + " ", end="")
     print()
 
-
-
+new_array = ["labas","vakaras","studentai"]
 
 
 
